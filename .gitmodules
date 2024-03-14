@@ -1,3 +1,3 @@
 [submodule "dependencies/XMake"]
 	path = dependencies/XMake
-	url = git://github.com/Kanma/XMake.git
+url=git@github.com:Kanma/XMake.git
